@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: org.generation.italy.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.061 s <<< FAILURE! - in org.generation.italy.CalculatorTest
+testDivision  Time elapsed: 0.011 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Non è possibile dividere per 0 ==> expected: <1.0> but was: <Infinity>
+	at org.generation.italy.CalculatorTest.testDivision(CalculatorTest.java:49)
+
